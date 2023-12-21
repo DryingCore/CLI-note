@@ -10,13 +10,15 @@ Certifique-se de ter o Node.js instalado no seu sistema.
 
 1. Clone o repositório:
 
-   ```bash
+   ```
    git clone https://github.com/https://github.com/lein0rb4gx/CLI-note
-
+   ```
+   
 2. Instale as depêndencias 
 
-   ```bash
+   ```
    npm install
+   ```
 
 3. Modifique o script de acordo com suas necessidades. Por exemplo, você pode personalizar o caminho padrão para salvar anotações editando a linha:
 
@@ -24,10 +26,15 @@ Certifique-se de ter o Node.js instalado no seu sistema.
    const pasta = caminho_pasta || "C:/Caminho/para/salvar/anotações/";
 
 Exemplo de uso:
-```bash
+```
 Digite o título: Minha Anotação
 Digite sua anotação: Isso é uma anotação de exemplo.
 Digite um caminho (pressione Enter para usar o padrão):
 Anotação salva: C:/Users/lein0/OneDrive/Documentos/Anotações/Minha Anotação.txt
+```
+
+### Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE]([https:///](https://github.com/lein0rb4gx/CLI-note/edit/main/LICENSE.md)) para detalhes.
 
 
