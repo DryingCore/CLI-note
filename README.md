@@ -35,6 +35,6 @@ Anotação salva: C:/Users/lein0/OneDrive/Documentos/Anotações/Minha Anotaçã
 
 ### Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/lein0rb4gx/CLI-note/blob/main/LICENSE.md) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/lein0rb4gx/CLI-note/main/LICENSE.md) para detalhes.
 
 
