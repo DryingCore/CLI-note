@@ -11,7 +11,7 @@ Certifique-se de ter o Node.js instalado no seu sistema.
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/https://github.com/DryingCore/CLI-note
+   git clone https://github.com/DryingCore/CLI-note
    ```
    
 2. Instale as depêndencias 
